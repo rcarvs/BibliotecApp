@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/renan/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.13/b5e49f78cdaee21a2339a26e5646c2ee2b4f0c3c/library-1.0.13.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5e49f78cdaee21a2339a26e5646c2ee2b4f0c3c">
+        <dex dex="/home/renan/AndroidStudioProjects/BibliotecAppUFSJ/app/build/intermediates/pre-dexed/debug/library-1.0.13-4c14d5c54eb3aca10a200b05b5b1aad3f6214eca.jar" />
+    </item>
+
+</items>

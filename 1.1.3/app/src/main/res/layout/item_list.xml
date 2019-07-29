@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#dddddd"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/tituloItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The titulo está plantadoThe titulo está plantado The titulo está plantado The titulo está plantado  "
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@+id/imageView2"
+        android:layout_toStartOf="@+id/imageView2" />
+
+    <TextView
+        android:id="@+id/dataVencimento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vence em..."
+        android:textStyle="italic"
+        android:layout_below="@+id/tituloItem"
+        android:layout_alignRight="@+id/tituloItem"
+        android:layout_alignEnd="@+id/tituloItem"
+        android:layout_marginRight="25dp"
+        android:layout_marginEnd="25dp"
+        android:enabled="true" />
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:src="@drawable/ic_action_repeat_48"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:visibility="gone">
+
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:indeterminate="true" />
+    </RelativeLayout>
+
+
+</RelativeLayout>

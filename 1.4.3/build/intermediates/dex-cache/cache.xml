@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.15/9093a362d18c5f81f58e49d86dece57d9b6e1cb7/library-1.0.15.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="/home/renan/AndroidStudioProjects/BibliotecAppUFSJ/app/build/intermediates/pre-dexed/debug/library-1.0.15-7e0fd4fec7f7f8a90eec28d8e36a254049455df9.jar" />
+    </item>
+    <item
+        jar="/home/renan/AndroidStudioProjects/BibliotecAppUFSJ/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c79e5c6924bdea6803bf59dda1d09d0cda710cae">
+        <dex dex="/home/renan/AndroidStudioProjects/BibliotecAppUFSJ/app/build/intermediates/pre-dexed/debug/classes-c59d2aaffc73af905a4fb266f165a4065cf176ec.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.7/b321fd17a60912973a8344da427487c65ccbb552/joda-time-2.7-no-tzdb.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b321fd17a60912973a8344da427487c65ccbb552">
+        <dex dex="/home/renan/AndroidStudioProjects/BibliotecAppUFSJ/app/build/intermediates/pre-dexed/debug/joda-time-2.7-no-tzdb-d6871fdb3d4ebf2ba68ff0095d096d88d8958fe7.jar" />
+    </item>
+
+</items>

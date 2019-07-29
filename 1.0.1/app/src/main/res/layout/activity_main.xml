@@ -1,0 +1,148 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+    android:background="#455A64"
+    android:id="@+id/layoutTotal"
+    android:backgroundTint="#455A64">
+
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="15"
+        android:id="@+id/editTextLogin"
+        android:autoText="false"
+        android:clickable="false"
+        android:visibility="visible"
+        android:hint="Login"
+        android:layout_marginTop="33dp"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF"
+        android:textColorLink="#FFFFFF"
+        android:textColorHighlight="#FFFFFF"
+        android:layout_below="@+id/imagemLogo"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="sans-serif"
+        android:shadowColor="#FFFFFF"
+        android:backgroundTint="#FFFFFF" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imagemLogo"
+        android:background="@drawable/icone_oculos_48"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/textLogoBibliotecApp"
+        android:layout_toStartOf="@+id/textLogoBibliotecApp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BibliotecApp"
+        android:id="@+id/textLogoBibliotecApp"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:layout_alignTop="@+id/imagemLogo"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="sans-serif"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UFSJ"
+        android:id="@+id/textView"
+        android:textColor="#FFFFFF"
+        android:textSize="16dp"
+        android:layout_below="@+id/textLogoBibliotecApp"
+        android:layout_alignLeft="@+id/textLogoBibliotecApp"
+        android:layout_alignStart="@+id/textLogoBibliotecApp"
+        android:fontFamily="sans-serif" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="15"
+        android:id="@+id/editTextSenha"
+        android:autoText="false"
+        android:clickable="false"
+        android:visibility="visible"
+        android:hint="Senha"
+        android:layout_marginTop="14dp"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#ffffff"
+        android:textColorHint="#FFFFFF"
+        android:textColorLink="#FFFFFF"
+        android:textColorHighlight="#FFFFFF"
+        android:layout_below="@+id/editTextLogin"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="sans-serif"
+        android:shadowColor="#FFFFFF" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Deseja salvar o login?"
+        android:id="@+id/checkBoxSalvar"
+        android:layout_below="@+id/editTextSenha"
+        android:layout_alignLeft="@+id/editTextSenha"
+        android:layout_alignStart="@+id/editTextSenha"
+        android:checked="true"
+        android:backgroundTintMode="screen"
+        android:backgroundTint="#FFFFFF"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF"
+        android:textColorHint="#FFFFFF"
+        android:textColorLink="#FFFFFF"
+        android:shadowColor="#FFFFFF"
+        android:buttonTint="#FFFFFF"
+        android:enabled="true"
+        android:textSize="16dp"
+        android:fontFamily="sans-serif"
+        android:textAllCaps="false" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/botaoEntrar"
+        android:src="@drawable/ic_action_forward_48"
+        android:contentDescription="Fazer login"
+        android:layout_alignTop="@+id/checkBoxSalvar"
+        android:layout_alignRight="@+id/editTextSenha"
+        android:layout_alignEnd="@+id/editTextSenha" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/textErro"
+        android:layout_marginTop="51dp"
+        android:layout_below="@+id/botaoEntrar"
+        android:textColor="#B71C1C"
+        android:textColorHighlight="#FFFFFF"
+        android:textColorHint="#FFFFFF"
+        android:textColorLink="#FFFFFF"
+        android:fontFamily="sans-serif"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:password="false"
+        android:visibility="visible" />
+    <RelativeLayout
+        android:id="@+id/loadingPanel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center" >
+
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:indeterminate="true" />
+    </RelativeLayout>
+</RelativeLayout>
+
