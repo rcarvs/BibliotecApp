@@ -2,456 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11fd9fc4-5aaa-4f18-82a5-dd64b362b5bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/.idea/scopes/scope_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/BibliotecAppUFSJ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/app-release.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/androidTest/java/br/com/rcarvs/bibliotecappufsj/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/java/br/com/rcarvs/bibliotecappufsj/AdapterListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/java/br/com/rcarvs/bibliotecappufsj/ItemListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/java/br/com/rcarvs/bibliotecappufsj/LivrosActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/java/br/com/rcarvs/bibliotecappufsj/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/java/br/com/rcarvs/bibliotecappufsj/UsuarioManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/drawable/ic_action_accept.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/drawable/ic_action_accept_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/drawable/ic_action_cancel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/drawable/ic_action_cancel_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/drawable/ic_action_event.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/drawable/ic_action_event_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/drawable/ic_action_event_red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/drawable/ic_action_event_red_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/drawable/ic_action_forward.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/drawable/ic_action_forward_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/drawable/ic_action_repeat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/drawable/ic_action_repeat_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/drawable/icone_oculos_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/drawable/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/layout/activity_livros.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/layout/item_list.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/BibliotecAppUFSJ/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/androidTest/java/br/com/rcarvs/bibliotecappufsj/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/java/br/com/rcarvs/bibliotecappufsj/AdapterListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/java/br/com/rcarvs/bibliotecappufsj/ItemListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/java/br/com/rcarvs/bibliotecappufsj/LivrosActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/java/br/com/rcarvs/bibliotecappufsj/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/java/br/com/rcarvs/bibliotecappufsj/UsuarioManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/drawable/ic_action_accept.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/drawable/ic_action_accept_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/drawable/ic_action_cancel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/drawable/ic_action_cancel_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/drawable/ic_action_event.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/drawable/ic_action_event_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/drawable/ic_action_event_red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/drawable/ic_action_event_red_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/drawable/ic_action_forward.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/drawable/ic_action_forward_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/drawable/ic_action_repeat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/drawable/ic_action_repeat_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/drawable/icone_oculos_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/drawable/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/layout/activity_livros.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/layout/item_list.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/build/intermediates/dex-cache/cache.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/build/intermediates/model_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.0/versions/1/bibliotecApp.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/BibliotecAppUFSJ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/app-release.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/androidTest/java/br/com/rcarvs/bibliotecappufsj/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/java/br/com/rcarvs/bibliotecappufsj/AdapterListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/java/br/com/rcarvs/bibliotecappufsj/ItemListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/java/br/com/rcarvs/bibliotecappufsj/LivrosActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/java/br/com/rcarvs/bibliotecappufsj/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/java/br/com/rcarvs/bibliotecappufsj/UsuarioManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/drawable/ic_action_accept.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/drawable/ic_action_accept_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/drawable/ic_action_cancel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/drawable/ic_action_cancel_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/drawable/ic_action_event.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/drawable/ic_action_event_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/drawable/ic_action_event_red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/drawable/ic_action_event_red_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/drawable/ic_action_forward.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/drawable/ic_action_forward_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/drawable/ic_action_repeat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/drawable/ic_action_repeat_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/drawable/icone_oculos_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/drawable/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/layout/activity_livros.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/layout/item_list.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/build/intermediates/dex-cache/cache.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/build/intermediates/model_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.1/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/BibliotecAppUFSJ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/app-release.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/androidTest/java/br/com/rcarvs/bibliotecappufsj/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/java/br/com/rcarvs/bibliotecappufsj/AdapterListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/java/br/com/rcarvs/bibliotecappufsj/ItemListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/java/br/com/rcarvs/bibliotecappufsj/LivrosActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/java/br/com/rcarvs/bibliotecappufsj/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/java/br/com/rcarvs/bibliotecappufsj/UsuarioManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/drawable/ic_action_accept.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/drawable/ic_action_accept_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/drawable/ic_action_cancel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/drawable/ic_action_cancel_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/drawable/ic_action_event.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/drawable/ic_action_event_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/drawable/ic_action_event_red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/drawable/ic_action_event_red_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/drawable/ic_action_forward.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/drawable/ic_action_forward_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/drawable/ic_action_repeat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/drawable/ic_action_repeat_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/drawable/icone_oculos_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/drawable/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/layout/activity_livros.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/layout/item_list.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/build/intermediates/dex-cache/cache.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/build/intermediates/model_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0.2/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/BibliotecAppUFSJ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/app-release.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/androidTest/java/br/com/rcarvs/bibliotecappufsj/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/AdapterListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/ItemListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/LivrosActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/UsuarioManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/drawable/ic_action_accept.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/drawable/ic_action_accept_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/drawable/ic_action_cancel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/drawable/ic_action_cancel_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/drawable/ic_action_event.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/drawable/ic_action_event_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/drawable/ic_action_event_red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/drawable/ic_action_event_red_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/drawable/ic_action_forward.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/drawable/ic_action_forward_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/drawable/ic_action_repeat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/drawable/ic_action_repeat_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/drawable/icone_oculos_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/drawable/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/layout/activity_livros.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/layout/item_list.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/build/intermediates/dex-cache/cache.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/build/intermediates/model_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1.3/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/BibliotecAppUFSJ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/app-release.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/androidTest/java/br/com/rcarvs/bibliotecappufsj/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/AdapterListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/ItemListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/LivrosActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/UsuarioManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/drawable/ic_action_accept.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/drawable/ic_action_accept_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/drawable/ic_action_cancel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/drawable/ic_action_cancel_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/drawable/ic_action_event.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/drawable/ic_action_event_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/drawable/ic_action_event_red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/drawable/ic_action_event_red_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/drawable/ic_action_forward.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/drawable/ic_action_forward_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/drawable/ic_action_repeat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/drawable/ic_action_repeat_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/drawable/icone_oculos_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/drawable/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/layout/activity_livros.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/layout/item_list.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/build/intermediates/dex-cache/cache.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/build/intermediates/model_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2.3/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/BibliotecAppUFSJ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/app-release.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/androidTest/java/br/com/rcarvs/bibliotecappufsj/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/AdapterListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/ItemListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/LivrosActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/UsuarioManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/drawable/ic_action_accept.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/drawable/ic_action_accept_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/drawable/ic_action_cancel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/drawable/ic_action_cancel_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/drawable/ic_action_event.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/drawable/ic_action_event_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/drawable/ic_action_event_red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/drawable/ic_action_event_red_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/drawable/ic_action_forward.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/drawable/ic_action_forward_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/drawable/ic_action_repeat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/drawable/ic_action_repeat_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/drawable/icone_oculos_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/drawable/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/layout/activity_livros.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/layout/item_list.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/build/intermediates/dex-cache/cache.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/build/intermediates/model_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3.3/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/BibliotecAppUFSJ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/app-release.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/androidTest/java/br/com/rcarvs/bibliotecappufsj/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/AdapterListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/AlarmReceiver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/AlarmService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/ItemListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/LivrosActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/java/br/com/rcarvs/bibliotecappufsj/UsuarioManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/drawable/ic_action_accept.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/drawable/ic_action_accept_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/drawable/ic_action_cancel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/drawable/ic_action_cancel_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/drawable/ic_action_event.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/drawable/ic_action_event_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/drawable/ic_action_event_red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/drawable/ic_action_event_red_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/drawable/ic_action_forward.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/drawable/ic_action_forward_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/drawable/ic_action_repeat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/drawable/ic_action_repeat_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/drawable/icone_oculos_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/drawable/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/layout/activity_livros.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/layout/item_list.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/build/intermediates/dex-cache/cache.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/build/intermediates/gradle_project_sync_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/build/intermediates/model_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.3/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/BibliotecAppUFSJ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/app-release.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/androidTest/java/br/com/rcarvs/bibliotecappufsj/ApplicationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/java/br/com/rcarvs/bibliotecappufsj/AdapterListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/java/br/com/rcarvs/bibliotecappufsj/AlarmReceiver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/java/br/com/rcarvs/bibliotecappufsj/AlarmService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/java/br/com/rcarvs/bibliotecappufsj/UsuarioManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/drawable/ic_action_accept.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/drawable/ic_action_accept_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/drawable/ic_action_cancel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/drawable/ic_action_cancel_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/drawable/ic_action_event.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/drawable/ic_action_event_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/drawable/ic_action_event_red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/drawable/ic_action_event_red_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/drawable/ic_action_forward.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/drawable/ic_action_forward_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/drawable/ic_action_repeat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/drawable/ic_action_repeat_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/drawable/icone_oculos_48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/drawable/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/layout/activity_livros.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/layout/item_list.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/build/intermediates/dex-cache/cache.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/build/intermediates/gradle_project_sync_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/build/intermediates/model_data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/local.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4.4/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotecapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bibliotecapp.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -463,6 +20,7 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="5200a68d032a853b" />
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -523,6 +81,15 @@
       </list>
     </option>
   </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_mcxiaoke_volley_library_1_0_19_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__joda_time_joda_time_2_7_no_tzdb_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__net_danlew_android_joda_2_7_2_aar.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1160" />
     <option name="y" value="23" />
@@ -541,12 +108,7 @@
           <expand>
             <path>
               <item name="bibliotecapp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="bibliotecapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bibliotecapp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="bibliotecapp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
           <select />
@@ -581,6 +143,59 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -607,8 +222,9 @@
       <window_info id="Resources Explorer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Logcat" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Debug" />
@@ -616,6 +232,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32992035" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Gradle" />
       <window_info anchor="right" id="Theme Preview" />
